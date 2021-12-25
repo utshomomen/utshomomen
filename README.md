@@ -1,8 +1,8 @@
 ![Alt text](me.gif)
 
-### Hi there, I'm [utshomomen][website] 👋 
+### Hi there, I'm Utsho , [self taught developer][website] 👋 
 
-<!-- [![Website](https://utshomomen.com)](https://utshomomen.com) -->
+[![Website](https://utshomomen.com)](https://utshomomen.com)
 
 
 ## I'm a Developer, and Designer!!
