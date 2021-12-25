@@ -2,7 +2,7 @@
 
 ### Hi there, I'm utsho a [utshomomen][website] 👋 
 
-[![Website](https://utshomomen.com)](https://utshomomen.com)
+<!-- [![Website](https://utshomomen.com)](https://utshomomen.com) -->
 
 
 ## I'm a Developer, and Designer!!
@@ -50,7 +50,13 @@
 <summary>:zap: GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=utshomomen&show_icons=true&theme=gotham" alt="utshomomen" /> 
 
+ 
+</details>
 
+### Interesting Facts:
+
+
+![Utsho stats](https://github-readme-stats.vercel.app/api?username=utshomomen&show_icons=true)
 
 ### Contacts:
 
@@ -59,8 +65,3 @@
 [youtube]: https://youtube.com/utshomomen
 [instagram]: https://instagram.com/utshomomen
 [linkedin]: https://linkedin.com/in/utshomomen
-  
-</details>
-### Interesting Facts:
-
-https://github-readme-stats.vercel.app/api?username=utshomomen&show_icons=true
