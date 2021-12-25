@@ -1,6 +1,6 @@
 ![Alt text](me.gif)
 
-### Hi there, I'm utsho a [utshomomen][website] 👋 
+### Hi there, I'm [utshomomen][website] 👋 
 
 <!-- [![Website](https://utshomomen.com)](https://utshomomen.com) -->
 
@@ -58,10 +58,10 @@
 
 ![Utsho stats](https://github-readme-stats.vercel.app/api?username=utshomomen&show_icons=true)
 
-### Contacts:
+<!-- ### Contacts:
 
 [website]: https://utshomomen.com
 [twitter]: https://twitter.com/utshomomen
 [youtube]: https://youtube.com/utshomomen
 [instagram]: https://instagram.com/utshomomen
-[linkedin]: https://linkedin.com/in/utshomomen
+[linkedin]: https://linkedin.com/in/utshomomen -->
