@@ -1,6 +1,6 @@
 ![Alt text](me.gif)
 
-### Hi there, I'm Utsho , [self taught developer][website] 👋 
+### Hi there, [I'm Utsho , self taught developer] [https://utshomomen.com] 👋 
 
 [![Website](https://utshomomen.com)](https://utshomomen.com)
 
