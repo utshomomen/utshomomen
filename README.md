@@ -15,11 +15,13 @@
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="utshomomen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="utshomomen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="utshomomen| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="utshomomen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="utshomomen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+### Contacts:
+
+[website]: https://utshomomen.com
+[twitter]: https://twitter.com/utshomomen
+[youtube]: https://youtube.com/utshomomen
+[instagram]: https://instagram.com/utshomomen
+[linkedin]: https://linkedin.com/in/utshomomen
 
 <br />
 
