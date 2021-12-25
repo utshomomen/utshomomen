@@ -15,13 +15,6 @@
 
 ### Connect with me:
 
-### Contacts:
-
-[website]: https://utshomomen.com
-[twitter]: https://twitter.com/utshomomen
-[youtube]: https://youtube.com/utshomomen
-[instagram]: https://instagram.com/utshomomen
-[linkedin]: https://linkedin.com/in/utshomomen
 
 <br />
 
