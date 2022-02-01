@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Utsho , self taught developer  👋 
 
-![Website](https://utshomomen.com)
+
 
 
 ## I'm a Developer, and Designer!!
@@ -15,6 +15,7 @@
 
 ### Connect with me:
 
+![website]: https://utshomomen.com
 
 <br />
 
