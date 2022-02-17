@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-![(https://utshomomen.com)](https://utshomomen.com)
+[](https://utshomomen.com)
 
 <br />
 
